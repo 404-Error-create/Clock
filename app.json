@@ -1,0 +1,12 @@
+{
+  "name": "ClockApp",
+  "displayName": "ClockApp",
+  "expo": {
+    "name": "ClockApp",
+    "slug": "ClockApp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
